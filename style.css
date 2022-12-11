@@ -15,7 +15,7 @@ body{
 
 .nav-search{
     margin-left: 16%;
-    
+    z-index: 2;
 }
 
 input::placeholder {
