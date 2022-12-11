@@ -174,7 +174,7 @@ input::placeholder {
 
 /*Right-panel-start*/
 
-@media screen and (min-width: 1420px) and (max-width: 2500px) {
+@media screen and (min-width: 1420px){
     .right-panel{
         width: 250px;
         height: 300px;
