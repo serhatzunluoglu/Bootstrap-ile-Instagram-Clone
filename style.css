@@ -9,7 +9,7 @@ body{
 .navbar{
     height: 54px;
     background-color:white !important;
-    min-width:100%;
+    min-width:500px;
 }
 
 
