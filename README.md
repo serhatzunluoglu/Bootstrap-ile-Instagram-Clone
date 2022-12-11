@@ -1,6 +1,5 @@
 # Bootstrap ile Instagram Clone
-Patika front-end-başlangıç-seviye eğitim serisindeki yaptığım ödevim. 
-Bootstrap ve CSS kullanarak yaptığım Instagram clone çalışması 
+Patika front-end-başlangıç-seviye eğitim serisindeki Bootstrap ve CSS kullanarak yaptığım Instagram clone çalışması 
 
 Sitemin demosuna [buraya](https://serhatzunluoglu-instagram-clone.netlify.app/) tıklayarak ulaşabilirsin.
 
